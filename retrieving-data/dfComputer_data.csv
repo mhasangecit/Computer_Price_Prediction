@@ -1,0 +1,704 @@
+Fiyat,Ekran Kartı,İşlemci,İşlemci Nesli,İşlemci Modeli,Ram,Ekran Boyutu,Ekran Kartı Bellek Tipi,Ekran Kartı Hafızası,Ekran Kartı Tipi,Ekran Yenileme Hızı,Ekran Özelliği,Garanti Süresi,Max İşlemci Hızı,Ram Tipi,SSD Kapasitesi,SSD Teknolojisi,Temel İşlemci Hızı,Çözünürlük,İşlemci Frekansı,İşlemci Çekirdek Sayısı,İşletim Sistemi
+10499.0,Dahili Ekran Kartı,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Free Dos
+13999.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+14999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,8.0,14 inç,DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR4,512.0,,,1920 x 1080,,4,Windows
+11999.0,AMD Radeon RX 550,Intel Xeon,Belirtilmemiş,X5660,32.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,2.9,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+6869.0,Intel UHD Graphics 600,Intel Celeron,Belirtilmemiş,N4020,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,LPDDR4,120.0,,1.1,1366 x 768,,2,Windows
+14988.0,AMD Radeon RX 5500 XT,Intel Core i3,10. Nesil,10100F,8.0,22 - 24 inç,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,8,Windows
+8199.0,AMD Radeon Graphics,AMD Athlon,7. Nesil,Belirtilmemiş,8.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,3.5,LPDDR5,256.0,,2.4,1920 x 1080,,2,Free Dos
+11999.0,Dahili Ekran Kartı,AMD Ryzen 5,7. Nesil,7520U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+298790.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,12,Free Dos
+10949.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,240.0,Gen 4,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+27079.0,Dahili Ekran Kartı,Apple M1,3. Nesil,Belirtilmemiş,8.0,"13,3 inç",DDR2,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR2,256.0,,Belirtilmemiş,2560 x 1600,,8,Mac Os
+29999.0,Nvidia GeForce GTX 1650,Intel Core i7,11. Nesil,11800H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.6,DDR4,500.0,Gen 4,2.3,1920 x 1080,,8,Free Dos
+12299.0,Dahili Ekran Kartı,AMD Ryzen 5,7. Nesil,7520U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,LPDDR5,512.0,,,1920 x 1080,,4,Free Dos
+14799.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.5,LPDDR4X,256.0,,2.5,1920 x 1080,,4,Windows
+19999.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+13399.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+21899.0,Nvidia GeForce RTX 2050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+29999.0,Nvidia GeForce RTX 3050,Intel Core i7,12. Nesil,12700H,16.0,"15,6 inç",GDDR6,4 GB,Dahili,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+11249.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+15949.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11499.0,AMD Radeon Graphics,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,512.0,,,1920 x 1080,,4,Windows
+13229.0,Intel UHD Graphics,Intel Core i5,12. Nesil,12450H,8.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,512.0,,,1920 x 1080,,8,Free Dos
+11999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,120.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9399.0,AMD Radeon Graphics,AMD Ryzen 3,7. Nesil,7320U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,4,Free Dos
+10949.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,240.0,Gen 4,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+6499.0,AMD Radeon R7 240,Intel Core i5,3. Nesil,3470,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+95399.0,Dahili Ekran Kartı,AMD Ryzen 3,7. Nesil,7320U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Free Dos
+39499.0,M2 10 Çekirdekli,M2,2. Nesil,Belirtilmemiş,8.0,13 inç,DDR4,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,256.0,,,2560 x 1600,,8,Mac Os
+8999.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,128.0,,3.2,,3.00 GHz üstü,4,Free Dos
+8766.0,AMD Radeon R7 240,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,2.8,1920 x 1080,,4,Windows
+197991.0,Nvidia GeForce RTX 3060 Ti,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 5600,16.0,,GDDR6X,8 GB,Harici,,,2 Yıl,,DDR4,500.0,Gen 4,3.9,1920 x 1080,3.00 GHz üstü,12,Free Dos
+15699.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",DDR4,6 GB,Dahili,75 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+13799.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,144 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+96967.0,Intel UHD Graphics,Intel Core i3,Belirtilmemiş,1115G4,4.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Windows
+5999.0,Intel UHD Graphics 600,Intel Celeron,4. Nesil,N4020,4.0,"14,1 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,2.8,Belirtilmemiş,128.0,,1.1,1366 x 768,,2,Windows
+21395.0,Intel Iris Graphics,Intel Core i7,11. Nesil,1195G7,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.7,DDR4,512.0,,Belirtilmemiş,1920 x 1080,,4,Windows
+6869.0,Dahili Ekran Kartı,Intel Celeron,10. Nesil,N4020,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,2,Windows
+10949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+34599.0,M2 8 Çekirdekli,Apple M2,1. Nesil,Belirtilmemiş,8.0,"13,6 inç",Dahili,8 GB,Dahili,120 Hz,,2 Yıl,,DDR5,256.0,,3.3,2560 x 1600,,1,Mac Os
+8499.0,Intel UHD Graphics,Intel Celeron,4. Nesil,N4020,12.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,DDR4,128.0,,1.1,1920 x 1080,,2,Windows
+4399.0,Dahili Ekran Kartı,AMD,1. Nesil,5200,1.0,14 inç,DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1280 x 800,,1,Free Dos
+8549.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+22077.0,Intel HD Graphics 610,Intel Core M,5. Nesil,3600,8.0,"13,3 inç",DDR,Paylaşımlı,Dahili,90 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,8,Windows
+15999.0,AMD,AMD Ryzen 5,Belirtilmemiş,5625U,16.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.3,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+15949.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR3,128.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+26999.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,11. Nesil,i5-11320H,16.0,"17,3 inç",GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+13270.0,Intel XE Graphics,Intel Core i5,10. Nesil,1235U,8.0,"15,6 inç",DDR4,8 GB,Dahili,90 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,10,Windows
+13749.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,144 Hz,,2 Yıl,,,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+15599.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,,1920 x 1080,,10,Windows
+17149.0,AMD Radeon RX 580,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+22799.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",DDR4,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+265000.0,Quadro RTX 4000,Intel Core i9,13. Nesil,13900K,128.0,,Belirtilmemiş,,Harici,,,2 Yıl,,DDR4,8.0,,,,,20,Windows
+9358.0,Intel UHD Graphics,Intel Core i3,10. Nesil,1005G1,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,3.4,DDR4,256.0,,1.2,1920 x 1080,,2,Windows
+24490.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.4,DDR4,500.0,,2.5,1920 x 1080,,8,Free Dos
+129999.0,AMD Radeon Graphics,AMD Ryzen 5,Belirtilmemiş,5500U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+11700.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.2,DDR4,256.0,,2.4,1920 x 1080,,4,Free Dos
+157999.0,Dahili Ekran Kartı,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+24750.0,Nvidia GeForce RTX 2050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+14249.0,Nvidia GeForce GTX 1650,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+28599.0,Nvidia GeForce RTX 4050,Intel Core i5,13. Nesil,13500H,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+21865.0,Intel HD Graphics,Intel Core i5,12. Nesil,12500H,16.0,16 inç,DDR4,Paylaşımlı,Dahili,300 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1200,,4,Windows
+18499.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,8.0,"14,1 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,500.0,Gen 4,1.3,1920 x 1080,,10,Free Dos
+15149.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+113841.0,AMD Radeon RX 550,Intel Core i5,Belirtilmemiş,4570,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,Gen 3,2.9,1920 x 1080,3.00 GHz üstü,8,Windows
+25999.0,Nvidia GeForce RTX 3050 Ti,AMD Ryzen 5,6. Nesil,6600H,16.0,"16,1 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+13299.0,AMD Radeon RX 580,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,6 inç ve üstü,GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+29949.0,Nvidia GeForce RTX 4050,AMD Ryzen 7,Belirtilmemiş,7735HS,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,3.7,1920 x 1080,,16,Free Dos
+27299.0,Dahili Ekran Kartı,Apple M1,3. Nesil,Belirtilmemiş,8.0,"13,3 inç",DDR2,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR2,256.0,,Belirtilmemiş,2560 x 1600,,8,Mac Os
+6699.0,Intel UHD Graphics 600,Intel Celeron,4. Nesil,N4020,8.0,"14,1 inç",DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,DDR4,256.0,,1.1,1366 x 768,,2,Free Dos
+10299.0,Intel UHD Graphics,Intel Core i3,12. Nesil,1215U,8.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+8999.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,2. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+34900.0,M2 8 Çekirdekli,Apple M2,1. Nesil,Belirtilmemiş,8.0,"13,6 inç",Dahili,8 GB,Dahili,120 Hz,,2 Yıl,,DDR5,256.0,,3.3,2560 x 1600,,1,Mac Os
+7180.0,Intel HD Graphics,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,Dahili,Paylaşımlı,Dahili,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+16249.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,12. Nesil,12400F,32.0,6 inç ve üstü,GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,2.5,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+13452.0,Nvidia GT730,Intel Core i7,1. Nesil,860,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,240.0,,2.8,1920 x 1080,3.00 GHz üstü,4,Free Dos
+83940.0,Intel UHD Graphics,Intel Celeron,12. Nesil,N4120,8.0,"11,6 inç",DDR4,1 GB,Dahili,90 Hz,,3 Yıl,,DDR4,64.0,,,1366 x 768,,2,Windows
+9949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9469.0,AMD Radeon Graphics,AMD Ryzen 3,7. Nesil,7320U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,4,Free Dos
+34999.0,M2 8 Çekirdekli,Apple M2,1. Nesil,Belirtilmemiş,8.0,"13,6 inç",Dahili,8 GB,Dahili,120 Hz,,2 Yıl,,DDR5,256.0,,3.3,2560 x 1600,,1,Mac Os
+22799.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,6. Nesil,6600H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR5,512.0,,3.3,1920 x 1080,,6,Free Dos
+192552.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",DDR4,8 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,4,1920 x 1080,3.00 GHz üstü,6,Free Dos
+12250.0,Dahili Ekran Kartı,Intel Xeon,13. Nesil,12060p,16.0,"15,6 inç",GDDR5,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,24,Free Dos
+9900.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1125g4,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Free Dos
+212248.0,Intel UHD Graphics,Intel Core i7,12. Nesil,1255U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.7,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+11149.0,AMD Radeon RX 550,Intel Core i5,4. Nesil,4570,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+12299.0,Dahili Ekran Kartı,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,6,Free Dos
+54499.0,Nvidia GeForce RTX 4070,Intel Core i9,13. Nesil,13900H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,10,Free Dos
+9149.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+232086.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Dahili,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+10149.0,Nvidia GT730,Intel Core i5,3. Nesil,3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+8999.0,Nvıdıa GeForce GT 730,Intel Core i7,1. Nesil,860,16.0,22 - 24 inç,DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,2.8,1920 x 1080,2.50 GHz - 3.00 GHz,8,Free Dos
+12949.0,Nvidia GeForce GTX1050 Ti,Intel Core i3,10. Nesil,10100F,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11499.0,Nvidia Geforce GT 740,Intel Core i5,3. Nesil,3470,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+207891.0,Nvidia GeForce RTX 3060 Ti,Intel Core i5,Belirtilmemiş,i5 12400f,16.0,,GDDR6X,8 GB,Harici,,,2 Yıl,,DDR4,500.0,Gen 4,3.9,1920 x 1080,3.00 GHz üstü,12,Free Dos
+9383.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+23999.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,8.0,16 inç,GDDR6,4 GB,Harici,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1200,,8,Windows
+14499.0,Nvidia GeForce MX350,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",GDDR5,2 GB,Harici,60 Hz,,2 Yıl,,DDR4,512.0,,2.4,1920 x 1080,,4,Free Dos
+7549.0,Nvidia GT730,Intel Core i5,1. Nesil,İ5-650,8.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,60 Hz,,2 Yıl,,DDR3,120.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+12959.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+29949.0,Nvidia GeForce RTX 4050,AMD Ryzen 7,7. Nesil,7735HS,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,3.2,1920 x 1080,,8,Free Dos
+30799.0,Nvidia GeForce RTX 4050,AMD Ryzen 7,7. Nesil,7840HS,16.0,"16,1 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+26799.0,Dahili Ekran Kartı,Intel Core i7,12. Nesil,12700H,16.0,16 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.7,Belirtilmemiş,512.0,,3.5,1920 x 1200,,14,Windows
+13399.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+34499.0,M2 8 Çekirdekli,Apple M2,1. Nesil,Belirtilmemiş,8.0,"13,6 inç",Dahili,8 GB,Dahili,120 Hz,,2 Yıl,,DDR5,256.0,,3.3,2560 x 1600,,1,Mac Os
+21779.0,Nvidia GeForce GTX 1660 SUPER,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,6 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+14299.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Windows
+14839.0,Intel XE Graphics,Intel Core i5,10. Nesil,1235U,8.0,"15,6 inç",DDR4,8 GB,Dahili,90 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Windows
+15999.0,Dahili Ekran Kartı,AMD Ryzen 7,5. Nesil,5700U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+15499.0,Intel Iris Graphics,Intel Core i7,11. Nesil,11390H,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,5.0,DDR4,500.0,Gen 4,,1920 x 1080,,4,Free Dos
+13149.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+13879.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,DDR4,512.0,,1.8,1920 x 1080,,8,Free Dos
+15999.0,AMD Radeon Graphics,AMD Ryzen 7,7. Nesil,7730U,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+8099.0,Intel UHD Graphics,Intel Celeron,4. Nesil,N4020,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,DDR4,128.0,,1.1,1920 x 1080,,2,Windows
+15949.0,AMD Radeon RX 550,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+24999.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,4.4,DDR4,512.0,Gen 3,3.3,1920 x 1080,,12,Free Dos
+13499.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+41299.0,Nvidia GeForce RTX 4050,Intel Core i7,13. Nesil,13650HX,16.0,16 inç,GDDR6,6 GB,Harici,165 Hz,,2 Yıl,4.9,DDR5,512.0,,2.6,1920 x 1200,,14,Free Dos
+35609.0,Nvidia GeForce RTX 4060,AMD Ryzen 7,7. Nesil,7840HS,16.0,"16,1 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+119499.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,8,Free Dos
+151999.0,Intel XE Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+52299.0,M2 10 Çekirdekli,M2,Belirtilmemiş,Belirtilmemiş,16.0,"13,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,2560 x 1600,,Belirtilmemiş,Mac Os
+39501.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,8.0,"13,3 inç",DDR4,4 GB,Dahili,60 Hz,,2 Yıl,,LPDDR4X,256.0,,,1920 x 1080,,12,Windows
+284885.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,550,8.0,"15,6 inç",Belirtilmemiş,12 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,16,Free Dos
+18399.0,Nvidia GeForce GTX 1650,Intel Core i3,10. Nesil,10100F,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+25999.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Windows
+17249.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,,3.00 GHz üstü,6,Free Dos
+47499.0,Nvidia GeForce RTX 4070,AMD Ryzen 9,7. Nesil,7940HS,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+33999.0,Nvidia GeForce RTX 3050,Intel Core i7,13. Nesil,13650HX,16.0,"15,6 inç",GDDR6,6 GB,Harici,120 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,24,Free Dos
+9785.0,Intel HD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.0,DDR4,256.0,Gen 3,4,1920 x 1080,,2,Free Dos
+7999.0,Nvidia GeForce GT 730M,Intel Core i5,3. Nesil,İ5-3470,16.0,"19"" / 48 Ekran",DDR3,,Nvidia GeForce GT730M,60 Hz,,,,,128.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+34299.0,Nvidia GeForce RTX 3050,AMD Ryzen 7,6. Nesil,6800HS,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+9289.0,Intel UHD Graphics,Intel Core i3,11. Nesil,11500,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.5,DDR4,256.0,Gen 3,4,1920 x 1080,,4,Free Dos
+10649.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+30499.0,Nvidia GeForce RTX 4060,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+23999.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,6. Nesil,6600H,16.0,16 inç,GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1200,,6,Free Dos
+14896.0,Dahili Ekran Kartı,AMD Ryzen 5,5. Nesil,5500U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+10649.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+23999.0,Nvidia GeForce GTX 1650,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.4,DDR4,500.0,,2.5,1920 x 1080,,8,Windows
+10949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+30349.0,Nvidia GeForce RTX3060,Intel Core i5,11. Nesil,11400H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,Gen 3,,1920 x 1080,,12,Free Dos
+7299.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+15699.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",DDR4,6 GB,Dahili,75 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+5999.0,Dahili Ekran Kartı,Intel Core i7,1. Nesil,860,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,240.0,,2.8,,2.50 GHz - 3.00 GHz,2,Free Dos
+28999.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,11. Nesil,11300H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Windows
+14999.0,AMD Radeon Vega 8,AMD Ryzen 7,5. Nesil,5700U,16.0,"15,6 inç",GDDR6,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.3,DDR4,512.0,,1.8,1920 x 1080,,8,Windows
+43999.0,Nvidia GeForce RTX3060,Intel Core i7,12. Nesil,12700K,32.0,25 + inç,GDDR6,12 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,Gen 3,2.1,1920 x 1080,2.00 GHz - 2.40 GHz,12,Windows
+31999.0,M1 7 Çekirdekli,Apple M1,Belirtilmemiş,Belirtilmemiş,16.0,"13,3 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,Belirtilmemiş,256.0,,Belirtilmemiş,2560 x 1600,,8,Mac Os
+9499.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+38200.0,AMD,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 5500,16.0,,DDR4,,Nvidia GeForce RTX3060,,,2 Yıl,,,500.0,,,,,6,Windows
+11349.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+19999.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+237668.0,Nvidia GeForce RTX 2060,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+12999.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+155999.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,24.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,3.3,1920 x 1080,,10,Free Dos
+14249.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+12999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+27999.0,Nvidia GeForce RTX3060,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,6 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+8392.0,Nvidia GT730,Intel Core i5,3. Nesil,3470,16.0,18 - 21 inç,DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,512.0,,3.2,1600 x 900,3.00 GHz üstü,4,Free Dos
+10999.0,AMD Radeon Graphics,AMD Ryzen 3,7. Nesil,7320U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,4,Windows
+11299.0,AMD Radeon Graphics,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,3 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+15699.0,Intel UHD Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+26849.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,8 GB,Harici,240 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+13566.0,AMD Radeon Graphics,AMD Ryzen 5,11. Nesil,7520U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,165 Hz,,2 Yıl,4.3,LPDDR5,512.0,,,1920 x 1080,,4,Windows
+147420.0,Dahili Ekran Kartı,Intel Core i5,11. Nesil,1135G7,16.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+25999.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,4.4,DDR4,512.0,,2,1920 x 1080,,8,Free Dos
+7849.0,Nvidia GeForce GT 730,Intel Core i5,1. Nesil,İ5-650,8.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,60 Hz,,2 Yıl,,DDR3,240.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+28999.0,Nvidia GeForce RTX3060,AMD Ryzen 5,6. Nesil,6600H,16.0,16 inç,GDDR6,6 GB,Harici,Belirtilmemiş,,2 Yıl,,DDR5,512.0,,,2560 x 1600,,6,Free Dos
+9059.0,Intel UHD Graphics 600,Intel Celeron,Belirtilmemiş,N4020,8.0,14 inç,SD,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Windows
+9499.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+18264.0,Intel UHD Graphics 620,Intel Core i5,10. Nesil,10210U,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.2,DDR4,512.0,,1.6,1920 x 1080,,4,Windows
+24999.0,AMD Radeon R3,AMD Ryzen 7,5. Nesil,7700X,16.0,16 inç,DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR4X,512.0,,,1920 x 1200,,1,Windows
+9999.0,Nvidia GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11699.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Windows
+28199.0,Nvidia GeForce RTX 4050,AMD Ryzen 5,7. Nesil,7535HS,8.0,16 inç,GDDR6,6 GB,Harici,165 Hz,,2 Yıl,4.5,DDR5,512.0,,,1920 x 1200,,6,Free Dos
+34699.0,Intel Iris Graphics,Intel Core i7,12. Nesil,1255U,16.0,"12,4 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,LPDDR4X,512.0,,,2560 x 1600,,10,Windows
+10319.0,Nvidia GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+38999.0,Nvidia GeForce RTX 4050,Intel Core i7,12. Nesil,12650H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+100647.0,AMD Radeon R5 230,Intel Core i5,2. Nesil,2400,16.0,18 - 21 inç,DDR4,2 GB,Harici,60 Hz,,2 Yıl,,DDR3,128.0,,3.4,1366 x 768,2.50 GHz - 3.00 GHz,8,Windows
+23799.0,Nvidia GeForce RTX3060,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,"24"" / 61 Ekran",GDDR6,12 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+21299.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+67875.0,M2 Pro 19 Çekirdekli,Apple M2 Pro,13. Nesil,Belirtilmemiş,16.0,14 inç,GDDR6X,Paylaşımlı,Dahili,120 Hz,,2 Yıl,5.0,DDR5,512.0,Gen 4,Belirtilmemiş,3024 x 1964,,12,Mac Os
+31999.0,Nvidia GeForce RTX 3050,Intel Core i7,11. Nesil,11390H,16.0,"15,6 inç",GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR6,512.0,,,1920 x 1080,,4,Free Dos
+6199.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+23999.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,8.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR4X,512.0,,,1920 x 1200,,10,Windows
+29999.0,AMD Radeon RX 6800M,AMD Ryzen 7,7. Nesil,7730U,16.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,512.0,,,1920 x 1200,,8,Windows
+128499.0,AMD Radeon RX 5500 XT,Intel Core i3,10. Nesil,10100F,16.0,,DDR4,,Harici,,,2 Yıl,,DDR4,512.0,,,,,4,Windows
+42999.0,M2 10 Çekirdekli,Apple M2,2. Nesil,Belirtilmemiş,8.0,15 inç,DDR5,8 GB,Dahili,120 Hz,,2 Yıl,,LPDDR5,256.0,,,2880 x 1620,,8,Mac Os
+7499.0,Intel UHD Graphics 600,Intel Celeron,4. Nesil,N4020,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,DDR4,128.0,,1.1,1920 x 1080,,2,Windows
+25649.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12500H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+14899.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,10. Nesil,10400F,32.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+16500.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,16.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,5,Free Dos
+15499.0,Intel UHD Graphics,Intel Core i5,Belirtilmemiş,1135G7,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+12499.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,,,DDR4,512.0,,1.0,1920 x 1080,,4,Free Dos
+6941.0,AMD Radeon RX 550,Intel Core i5,4. Nesil,4570,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+24999.0,Nvidia GeForce RTX 3050 Ti,AMD Ryzen 5,6. Nesil,6600H,8.0,"16,1 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+9252.0,Intel HD Graphics 4400,Intel Core i5,3. Nesil,Belirtilmemiş,16.0,"19"" / 48 Ekran",Belirtilmemiş,,Dahili,,,2 Yıl,,,120.0,,,,,16,Windows
+14680.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+10399.0,AMD Radeon Graphics,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,4,Free Dos
+105999.0,Paylaşımlı,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.1,DDR4,512.0,,3,1920 x 1080,,2,Free Dos
+18499.0,Intel UHD Graphics,Intel Core i7,12. Nesil,1255U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,1.7,1920 x 1080,,10,Free Dos
+9499.0,Intel UHD Graphics,Intel Core i3,12. Nesil,1215U,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+9252.0,Intel HD Graphics 4400,Intel Core i5,3. Nesil,Belirtilmemiş,16.0,"19"" / 48 Ekran",Belirtilmemiş,,Dahili,,,2 Yıl,,,120.0,,,,,16,Windows
+122741.0,AMD Radeon RX 580,Intel Core i5,4. Nesil,4570,16.0,"24"" / 61 Ekran",DDR5,8 GB,Harici,100 Hz,,2 Yıl,,DDR3,256.0,,3.3,1920 x 1080,3.00 GHz üstü,4,Free Dos
+15299.0,Intel UHD Graphics,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,LPDDR5,512.0,,3.3,1920 x 1080,,8,Free Dos
+12299.0,Dahili Ekran Kartı,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,6,Free Dos
+24000.0,Nvidia GeForce GTX 1650,Intel Core i5,Belirtilmemiş,i5-11320H,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,,1920 x 1080,,Belirtilmemiş,Windows
+28389.0,Nvidia GeForce RTX 4050,AMD Ryzen 5,7. Nesil,Belirtilmemiş,16.0,"15,6 inç",GDDR6,6 GB,Harici,120 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+7999.0,Nvidia GeForce MX450,MediaTek P60T,5. Nesil,4800HS,36.0,18 inç,Dahili,2 GB,Harici,90 Hz,,2 Yıl,,LPDDR3,32.0,,,4480 x 2520,,10,Windows
+5749.0,Nvidia Geforce GT 740,Intel Core i5,4. Nesil,4570,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+28999.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+9450.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,3,1920 x 1080,,2,Free Dos
+20399.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+14799.0,Dahili Ekran Kartı,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,500.0,Gen 3,,1920 x 1080,,10,Free Dos
+26849.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,8 GB,Harici,240 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+104953.0,Nvidia Geforce GT 740,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+6999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+13999.0,AMD Radeon Graphics,AMD Ryzen 5,4. Nesil,4600H,16.0,14 inç,GDDR6,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.0,DDR4,512.0,,3,1920 x 1080,,6,Free Dos
+8392.0,Nvidia GT730,Intel Core i5,3. Nesil,3470,16.0,18 - 21 inç,DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,512.0,,3.2,1600 x 900,3.00 GHz üstü,4,Free Dos
+20299.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12400F,16.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,2.5,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+11666.0,Dahili Ekran Kartı,AMD E,,3020e,4.0,"15,6 inç",SD,Paylaşımlı,Dahili,,,,,,256.0,,,1920 x 1080,,2,Free Dos
+8350.0,Intel HD Graphics,Intel Core i3,3. Nesil,Belirtilmemiş,4.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR5,128.0,,,1920 x 1080,,8,Windows
+15949.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,128.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+31999.0,Nvidia GeForce RTX 3050,AMD Ryzen 7,6. Nesil,6800HS,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,3.2,1920 x 1080,,8,Free Dos
+6999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+12499.0,Intel UHD Graphics,Intel Core i3,3. Nesil,N305,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,8,Free Dos
+514052.0,Nvidia GeForce RTX 4060,Intel Core i7,13. Nesil,13650HX,16.0,16 inç,GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1200,,8,Free Dos
+43489.0,Nvidia GeForce RTX 4070,AMD Ryzen 7,7. Nesil,7840HS,16.0,"16,1 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,5.0,DDR5,512.0,Gen 4,5.1,1920 x 1080,,8,Free Dos
+33499.0,Nvidia GeForce RTX 4050,AMD Ryzen 5,7. Nesil,660,16.0,"16,1 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+129999.0,AMD Radeon RX 5500 XT,Intel Core i3,10. Nesil,10100F,8.0,,DDR4,8 GB,AMD Radeon Vega 8,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+74033.0,AMD Radeon RX 580,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+14354.0,Intel XE Graphics,Intel Core i5,12. Nesil,1260p,8.0,18 inç,Dahili,4 GB,Harici,60 Hz,,2 Yıl,,LPDDR3,256.0,Gen 3,,1920 x 1080,,8,Free Dos
+7849.0,Intel HD Graphics,Intel Core i5,3. Nesil,3470,16.0,23.8 inç,Dahili,Paylaşımlı,Dahili,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+24899.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,Belirtilmemiş,6600H,16.0,"15,6 inç",Belirtilmemiş,4 GB,Harici,120 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Windows
+396710.0,Nvidia GeForce RTX 3060 Ti,AMD Ryzen 7,,Ryzen 7 5700X,32.0,,GDDR6,,,,,2 Yıl,,,512.0,,,,,,Free Dos
+8999.0,Intel UHD Graphics,Intel Celeron,4. Nesil,N4020,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,128.0,,2.8,1920 x 1080,,2,Windows
+12299.0,Dahili Ekran Kartı,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,6,Free Dos
+11899.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Windows
+24284.0,Intel XE Graphics,Intel Core i7,11. Nesil,11390H,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,90 Hz,,2 Yıl,5.0,DDR5,512.0,Gen 3,2.9,1920 x 1080,,4,Windows
+5749.0,Nvidia Geforce GT 740,Intel Core i5,4. Nesil,4570,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+10249.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Free Dos
+25499.0,Intel XE Graphics,Intel Core i5,10. Nesil,Belirtilmemiş,8.0,14 inç,DDR5,8 GB,Dahili,90 Hz,,2 Yıl,,LPDDR5,512.0,,,1920 x 1200,,12,Windows
+19599.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,16.0,25 + inç,GDDR5,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+10158.0,Nvidia GeForce GT 730M,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,,Harici,,,,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9924.0,AMD Radeon Vega 3,AMD Ryzen 3,7. Nesil,7320U,8.0,"15,6 inç",DDR3,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.1,LPDDR5,512.0,,,1920 x 1080,,4,Free Dos
+29299.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+24499.0,Nvidia GeForce RTX 3060 Ti,AMD Ryzen 5,5. Nesil,Ryzen 5 5600,16.0,,GDDR6,8 GB,Harici,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+10499.0,Intel HD Graphics,Intel Core i3,12. Nesil,1215U,8.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+10999.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,12.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.1,DDR4,256.0,,,1920 x 1080,,2,Windows
+15949.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,128.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+15499.0,Intel XE Graphics,Intel Core i5,13. Nesil,1335U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+38930.0,Nvidia GeForce RTX 4060,AMD Ryzen 7,7. Nesil,7735HS,8.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,3.2,1920 x 1080,,8,Windows
+9349.0,AMD Radeon Graphics,AMD Athlon,Belirtilmemiş,Belirtilmemiş,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,LPDDR5,256.0,,,1366 x 768,,4,Free Dos
+4099.0,Intel HD Graphics,Intel Core i5,3. Nesil,3470,8.0,,DDR3,Paylaşımlı,Paylaşımlı,,,2 Yıl,,DDR3,256.0,,,,3.00 GHz üstü,4,Free Dos
+15949.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,128.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+27099.0,Nvidia GeForce RTX 3050 Ti,Intel Core i7,11. Nesil,11800H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,8,Free Dos
+24899.0,Nvidia GeForce RTX 2050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Dahili,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Windows
+9949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+15499.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,,1920 x 1080,,10,Windows
+29399.0,Nvidia GeForce RTX 4050,AMD Ryzen 7,7. Nesil,7735HS,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+42799.0,Nvidia GeForce RTX 4050,Intel Core i7,12. Nesil,12700H,16.0,16 inç,GDDR6,6 GB,Harici,165 Hz,,2 Yıl,4.7,DDR4,512.0,,3.5,1920 x 1200,,14,Free Dos
+8811.0,Intel UHD Graphics 600,Intel Celeron,Belirtilmemiş,N4020,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,2.8,LPDDR4,240.0,,1.1,1366 x 768,,2,Free Dos
+25467.0,AMD Radeon RX 5500M,AMD Ryzen 5,5. Nesil,5600H,8.0,"15,6 inç",DDR4,4 GB,Harici,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,Belirtilmemiş,1920 x 1080,,Belirtilmemiş,Free Dos
+6999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+36789.0,Nvidia GeForce RTX 4060,Intel Core i7,13. Nesil,13700H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,14,Free Dos
+16149.0,AMD Radeon RX 580,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+27999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12500H,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,3.3,1920 x 1080,,12,Free Dos
+25036.0,Nvidia GeForce RTX 2050,Intel Core i5,Belirtilmemiş,11400H,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+21149.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+9949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+22499.0,Paylaşımlı,AMD Ryzen 5,Yok,5500U,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,,,DDR4,512.0,,Belirtilmemiş,1920 x 1080,,Belirtilmemiş,Free Dos
+17699.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+35781.0,Dahili Ekran Kartı,Intel Core i5,3. Nesil,İ5-3470,8.0,"5,5 - 6 inç",DDR3,Paylaşımlı,Dahili,,,2 Yıl,,DDR3,256.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+13899.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,,1920 x 1080,,2,Windows
+4099.0,Intel HD Graphics,Intel Core i5,3. Nesil,3470,8.0,,DDR3,Paylaşımlı,Paylaşımlı,,,2 Yıl,,DDR3,256.0,,,,3.00 GHz üstü,4,Free Dos
+12085.0,AMD R7 250,AMD A6,9. Nesil,9225,4.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,,Full HD,,,,128.0,,,1366 x 768,,2,Windows
+10499.0,Dahili Ekran Kartı,AMD Ryzen 5,3. Nesil,3500U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,Belirtilmemiş,1920 x 1080,,4,Free Dos
+6999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+27705.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400,8.0,"15,6 inç",GDDR6,4 GB,Harici,,Full HD,,,,512.0,,4 +,1920 x 1080,,6,Free Dos
+37999.0,Nvidia GeForce RTX3060,Intel Core i7,11. Nesil,Belirtilmemiş,32.0,"15,6 inç",GDDR6,6 GB,Harici,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,2.9,2560 x 1440,,6,Free Dos
+266238.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10300H,16.0,"15,6 inç",Belirtilmemiş,4 GB,Harici,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+14199.0,Dahili Ekran Kartı,Intel Core i7,11. Nesil,11390H,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,4,Free Dos
+20299.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12400F,16.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,2.5,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+21299.0,Intel UHD Graphics,Intel Core i7,12. Nesil,1255U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+23750.0,Nvidia GeForce RTX 2050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR6,512.0,,,1920 x 1080,,12,Free Dos
+20399.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+31999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+13549.0,Nvidia GeForce GTX 1650,Intel Core i3,10. Nesil,10100F,16.0,6 inç ve üstü,GDDR6,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,2.50 GHz - 3.00 GHz,4,Free Dos
+177744.0,AMD Radeon RX 550,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",DDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+17699.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+23286.0,Nvidia GeForce GTX 1650,Intel Core i5,11. Nesil,11320H,16.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,4.5,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+6999.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9514.0,Dahili Ekran Kartı,Intel Core i3,3. Nesil,N305,8.0,"15,6 inç",Dahili,Paylaşımlı,Harici,60 Hz,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,8,Free Dos
+23349.0,Nvidia GeForce RTX 3050 Ti,AMD Ryzen 5,5. Nesil,6600H,8.0,"15,6 inç",DDR5,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+17749.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,3.3,1920 x 1080,,10,Windows
+21149.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+14999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,256.0,,2.4,1920 x 1080,,4,Windows
+9083.0,Nvidia GT730,Intel Core i7,1. Nesil,860,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,2.8,1920 x 1080,3.00 GHz üstü,4,Free Dos
+35649.0,Intel Iris Graphics,Intel Core i7,12. Nesil,12700H,16.0,"15,6 inç",SD,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,LPDDR5,512.0,,,2880 x 1620,,14,Windows
+1744523.0,Dahili Ekran Kartı,Intel Core M,Belirtilmemiş,Belirtilmemiş,8.0,Belirtilmemiş,GDDR6,Paylaşımlı,Harici,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,Belirtilmemiş,Free Dos
+20299.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12400F,16.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,2.5,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+10999.0,Intel UHD Graphics,Intel Core i3,12. Nesil,1215U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,1.2,1920 x 1080,,6,Free Dos
+16500.0,Intel UHD Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,512.0,,2.4,1920 x 1080,,4,Free Dos
+10599.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,27 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+26999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,2.2,1920 x 1080,,12,Free Dos
+343551.0,Nvidia GeForce RTX 4050,Intel Core i5,13. Nesil,13500H,16.0,"16,1 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,12,Free Dos
+16499.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.5,DDR4,512.0,,2.5,1920 x 1080,,4,Free Dos
+129999.0,AMD Radeon RX 5500 XT,Intel Core i3,10. Nesil,10100F,8.0,,DDR4,8 GB,AMD Radeon Vega 8,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Windows
+18339.0,Dahili Ekran Kartı,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",GDDR6,2 GB,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,1920 x 1080,,10,Windows
+29814.0,Intel Iris Graphics,Intel Core i5,10. Nesil,1135G7,8.0,"13,3 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,,4.2,LPDDR4,512.0,,2.4,1920 x 1080,,4,Windows
+196576.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+7849.0,Intel HD Graphics,Intel Core i5,3. Nesil,3470,16.0,23.8 inç,Dahili,Paylaşımlı,Dahili,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11099.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+10999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,4,Free Dos
+24949.0,Intel HD Graphics,Intel Core i3,12. Nesil,1235U,8.0,16 inç,Dahili,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,2560 x 1600,,10,Windows
+11949.0,AMD Radeon RX 580,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,6 inç ve üstü,GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+37999.0,Nvidia GeForce RTX 4060,AMD Ryzen 7,7. Nesil,7735HS,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,16,Free Dos
+9252.0,Intel HD Graphics 4400,Intel Core i5,3. Nesil,Belirtilmemiş,16.0,"19"" / 48 Ekran",Belirtilmemiş,,Dahili,,,2 Yıl,,,120.0,,,,,16,Windows
+33333.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,2.7,1920 x 1080,,6,Free Dos
+149063.0,Dahili Ekran Kartı,AMD Ryzen 7,5. Nesil,5825U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+19949.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,256.0,,,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+91530.0,AMD Radeon R7 240,Intel Core i5,3. Nesil,İ5-3470,16.0,"22"" / 55 Ekran",DDR3,4 GB,Harici,60 Hz,,2 Yıl,,DDR3,256.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+17999.0,AMD Radeon RX 580,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+13599.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+36999.0,Nvidia GeForce RTX3060,Intel Core i7,11. Nesil,11600K,16.0,"15,6 inç",GDDR6,6 GB,Harici,165 Hz,,2 Yıl,4.6,DDR4,512.0,,2.9,2560 x 1440,,6,Free Dos
+21799.0,Nvidia GeForce GTX1050 Ti,AMD Ryzen 5,Belirtilmemiş,3600,32.0,25 + inç,GDDR5,4 GB,Harici,240 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+32699.0,Nvidia GeForce RTX 4060,Intel Core i5,12. Nesil,12450H,32.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.4,DDR4,500.0,Gen 3,,1920 x 1080,,8,Free Dos
+12699.0,AMD Radeon Graphics,AMD Ryzen 7,7. Nesil,5700U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,8,Free Dos
+12126.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+16999.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5600H,8.0,16 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,256.0,,2.8,1920 x 1200,,12,Free Dos
+11899.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.1,DDR4,500.0,Gen 3,3,1920 x 1080,,2,Free Dos
+6249.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+22999.0,Belirtilmemiş,Intel Core i5,Belirtilmemiş,Belirtilmemiş,16.0,16 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+229788.0,Nvidia GeForce RTX 2050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.4,DDR5,256.0,,3.3,1920 x 1080,,8,Windows
+29500.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,11. Nesil,11400H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,512.0,,2.7,1920 x 1080,,6,Free Dos
+12126.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+153441.0,AMD Radeon RX 580,AMD Ryzen 5,Belirtilmemiş,AMD Ryzen 5 1600,32.0,25 + inç,GDDR5,8 GB,Harici,90 Hz,,2 Yıl,,DDR4,240.0,Gen 3,3.4,1920 x 1080,3.00 GHz üstü,12,Free Dos
+117801.0,AMD Radeon RX 580,AMD Ryzen 5,Belirtilmemiş,AMD Ryzen 5 1600,32.0,25 + inç,GDDR5,8 GB,Harici,90 Hz,,2 Yıl,,DDR4,240.0,Gen 3,3.4,1920 x 1080,3.00 GHz üstü,12,Free Dos
+11499.0,Intel UHD Graphics,Intel Core i3,11. Nesil,N3000,8.0,"15,6 inç",GDDR5,Paylaşımlı,Harici,60 Hz,,2 Yıl,1.8,DDR4,256.0,,1.8,1920 x 1080,,8,Windows
+25799.0,Nvidia GeForce RTX 2050,Intel Core i5,11. Nesil,11400H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Windows
+5749.0,Intel HD Graphics,Intel Core i5,1. Nesil,650,8.0,"19"" / 48 Ekran",DDR3,,Intel HD Graphics 400,,,2 Yıl,,DDR3,256.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+10599.0,Dahili Ekran Kartı,Intel Core i3,Belirtilmemiş,1215U,8.0,"15,6 inç",Dahili,Paylaşımlı,Harici,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+8766.0,AMD Radeon R7 240,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,2.8,1920 x 1080,,4,Windows
+554922.0,Nvidia GeForce RTX 4070,Intel Core i9,13. Nesil,13900H,16.0,"17,3 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+25750.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400H,16.0,"15,6 inç",DDR4,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,,1920 x 1080,,6,Windows
+9139.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,4.0,"15,6 inç",Dahili,2 GB,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,2,Free Dos
+33799.0,Nvidia GeForce RTX 3050,Intel Core i7,11. Nesil,11800H,8.0,"15,6 inç",GDDR6,4 GB,Harici,Belirtilmemiş,,,5.0,DDR4,512.0,,,1920 x 1080,,Belirtilmemiş,Free Dos
+26999.0,Dahili Ekran Kartı,AMD Ryzen 7,5. Nesil,5700U,8.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,LPDDR4,512.0,,1.8,1920 x 1200,,8,Windows
+16970.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Windows
+8766.0,AMD Radeon R7 240,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,2.8,1920 x 1080,,4,Windows
+12250.0,Nvidia GeForce MX450,MediaTek P60T,5. Nesil,4800HS,36.0,18 inç,Dahili,2 GB,Harici,90 Hz,,2 Yıl,,LPDDR3,32.0,,,4480 x 2520,,10,Windows
+8549.0,Intel UHD Graphics,Intel Celeron,1. Nesil,Belirtilmemiş,8.0,"15,6 inç",SD,Paylaşımlı,Harici,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Free Dos
+22149.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+36325.0,Nvidia GeForce RTX 3050,Intel Core i7,12. Nesil,12700H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+11349.0,Intel UHD Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,256.0,,2.4,1920 x 1080,,4,Free Dos
+15149.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+38990.0,M2 8 Çekirdekli,M2,Belirtilmemiş,Belirtilmemiş,8.0,13 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,2550 x 1600,,Belirtilmemiş,Mac Os
+12360.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,DDR4,512.0,,1.8,1920 x 1080,,8,Free Dos
+28699.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+19399.0,Nvidia GeForce RTX 3050,Intel Core i5,10. Nesil,10400F,32.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,Gen 3,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+35999.0,Nvidia GeForce RTX 4060,Intel Core i5,13. Nesil,13500H,16.0,"16,1 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,Gen 4,,1920 x 1080,,12,Windows
+16399.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+34719.0,Nvidia GeForce RTX 4050,Intel Core i7,13. Nesil,13700H,16.0,"16,1 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+18099.0,Intel Iris Graphics,Intel Core i7,11. Nesil,1165G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.7,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+28499.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,Gen 4,,1920 x 1080,,8,Free Dos
+12799.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,Belirtilmemiş,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,,4,Windows
+23799.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,i5-11320H,8.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+23999.0,Nvidia GeForce RTX 2050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,500.0,Gen 4,,1920 x 1080,,8,Free Dos
+18927.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+18299.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,120 Hz,,2 Yıl,4.4,DDR4,512.0,,1.3,1920 x 1080,,10,Free Dos
+11999.0,Intel UHD Graphics 600,Intel Celeron,Belirtilmemiş,N4020,4.0,14 inç,DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,128.0,,Belirtilmemiş,1366 x 768,,2,Free Dos
+12009.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,16.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,4,Free Dos
+10599.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,27 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+13999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,500.0,,2.4,1920 x 1080,,4,Free Dos
+15420.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,500.0,,2.4,1920 x 1080,,4,Windows
+33999.0,Nvidia GeForce GTX 1650,Intel Core i5,11. Nesil,11400,8.0,"15,6 inç",GDDR6,4 GB,Harici,60 Hz,,2 Yıl,4.4,DDR4,512.0,,1.4,1920 x 1080,,6,Free Dos
+130951.0,Nvidia GeForce MX330,Intel Core i5,11. Nesil,1135G7,8.0,14 inç,GDDR5,2 GB,Harici,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1366 x 768,,4,Free Dos
+15934.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5625U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,1920 x 1080,,6,Windows
+11349.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+374999.0,Nvidia GeForce RTX 3050,Intel Core i7,12. Nesil,12650H,32.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+11349.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9804.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,2,Windows
+13399.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+9499.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,14 inç,SD,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1366 x 768,,2,Free Dos
+6749.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,6 inç ve üstü,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+13584.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,22 - 24 inç,DDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+17399.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Windows
+11249.0,AMD Radeon RX 550,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,6 inç ve üstü,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+22499.0,Intel Iris Graphics,Intel Core i7,12. Nesil,1255U,16.0,"14,1 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.7,DDR4,512.0,,1.7,1920 x 1080,,10,Free Dos
+11610.0,AMD Radeon R5,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",GDDR6,Paylaşımlı,Harici,60 Hz,,2 Yıl,,LPDDR5,512.0,,2.8,1920 x 1080,,8,Free Dos
+16949.0,Nvidia GeForce MX450,MediaTek P60T,5. Nesil,4800HS,36.0,18 inç,Dahili,2 GB,Harici,90 Hz,,2 Yıl,,LPDDR3,32.0,,,4480 x 2520,,10,Windows
+14549.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+12999.0,Nvidia GeForce 1050 Ti,Intel Core i3,11. Nesil,1115G4,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,1,Windows
+25099.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.4,DDR4,500.0,,2.5,1920 x 1080,,8,Free Dos
+8499.0,Intel UHD Graphics 600,Intel Celeron,1. Nesil,N4020,4.0,14 inç,DDR4,Paylaşımlı,Dahili,,Full HD,,,,128.0,,1 - 2,1920 x 1080,3.00 GHz üstü,2,Free Dos
+14549.0,AMD Radeon RX 550,Intel Core i3,10. Nesil,10100F,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+24699.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,6. Nesil,6600H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR5,512.0,,3.3,1920 x 1080,,6,Free Dos
+43999.0,Nvidia GeForce RTX 4060,Intel Core i5,12. Nesil,12500H,16.0,"17,3 inç",GDDR6,8 GB,Harici,360 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+65730.0,AMD Radeon R5 230,Intel Core i5,Belirtilmemiş,750,8.0,18 - 21 inç,DDR3,2 GB,Harici,60 Hz,,2 Yıl,,DDR3,256.0,,3.2,1024 x 768,3.00 GHz üstü,8,Windows
+108349.0,Intel XE Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,8,Free Dos
+14999.0,Intel UHD Graphics,Intel Core i5,11. Nesil,1035G1,8.0,"15,6 inç",DDR4,1 GB,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,,1920 x 1080,,Belirtilmemiş,Windows 11
+15319.0,Intel UHD Graphics,Intel Core i5,12. Nesil,Belirtilmemiş,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR5,256.0,,,1920 x 1080,,8,Windows
+10749.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+8499.0,AMD Radeon R5 230,Intel Core i5,3. Nesil,3470,16.0,18 - 21 inç,DDR3,2 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+334823.0,Paylaşımlı,Intel Core i7,6. Nesil,6500U,8.0,"12,5 inç",DDR3,Paylaşımlı,Dahili,,4K Ultra HD,,,,256.0,,,3840 x 2160,,2,Windows
+33199.0,Nvidia GeForce RTX 4050,Intel Core i7,13. Nesil,13620H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,2.4,1920 x 1080,,10,Free Dos
+10999.0,Dahili Ekran Kartı,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,2.5,DDR4,256.0,Gen 3,2.5,1920 x 1080,,4,Free Dos
+301490.0,Nvidia GeForce RTX 2060 Super,AMD Ryzen 7,Belirtilmemiş,3700X,16.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,8,Free Dos
+26999.0,Nvidia GeForce RTX3060,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,6 GB,Harici,120 Hz,,2 Yıl,4.4,DDR4,512.0,,2,1920 x 1080,,8,Free Dos
+11349.0,AMD Radeon Graphics,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,LPDDR5,256.0,,2.8,1920 x 1080,,4,Windows
+5999.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,4570,8.0,6 inç ve üstü,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,128.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+94198.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,16.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,3,1366 x 768,,2,Free Dos
+22300.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,5625U,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Linux
+7180.0,Intel HD Graphics,Intel Core i5,3. Nesil,İ5-3470,16.0,24 inç,Dahili,Paylaşımlı,Dahili,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+21499.0,Intel XE Graphics,Intel Core i5,12. Nesil,1235U,16.0,"13,3 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,512.0,,,2560 x 1600,,10,Free Dos
+33999.0,Nvidia GeForce RTX 4060,AMD Ryzen 5,7. Nesil,7640HS,16.0,"16,1 inç",GDDR6,8 GB,Dahili,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+129999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Linux
+9499.0,AMD Radeon RX 550,Intel Core i5,Belirtilmemiş,4570,16.0,22 - 24 inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,Gen 3,2.9,1920 x 1080,3.00 GHz üstü,8,Free Dos
+125999.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,2.1,1920 x 1080,,6,Free Dos
+16949.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+17699.0,AMD Radeon RX 580,AMD Ryzen 5,5. Nesil,5500U,16.0,,GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,480.0,,,,3.00 GHz üstü,6,Windows
+6679.0,Intel UHD Graphics 600,Intel Celeron,9. Nesil,N4020,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1366 x 768,,2,Free Dos
+38000.0,AMD Radeon Graphics,AMD,Ryzen,4600H,8.0,14 inç,GDDR5,Paylaşımlı,Dahili,120 Hz,,,,DDR4,512.0,,3,2160 x 1440,,6,Free Dos
+16045.0,AMD Radeon RX 580,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+506995.0,AMD Radeon R5,Intel Atom,1. Nesil,9750H,1.0,10 inç,DDR,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR1,120.0,,,1280 x 800,,1,Free Dos
+7749.0,Nvıdıa GeForce GT 730,Intel Core i7,1. Nesil,860,16.0,"19"" / 48 Ekran",DDR3,,Harici,60 Hz,,2 Yıl,,,240.0,,2.8,1366 x 768,3.00 GHz üstü,4,Free Dos
+128552.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,4. Nesil,4590,16.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.3,1920 x 1080,3.00 GHz üstü,4,Free Dos
+39999.0,Nvidia GeForce RTX3060,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR6,12 GB,Nvidia GeForce RTX3060,75 Hz,,2 Yıl,,DDR4,512.0,,,,2.50 GHz - 3.00 GHz,6,Free Dos
+16899.0,Nvidia GeForce MX330,Intel Core i5,10. Nesil,10210U,8.0,"15,6 inç",GDDR5,2 GB,Harici,60 Hz,,2 Yıl,4.2,DDR4,512.0,,1.6,1920 x 1080,,4,Windows
+59349.0,M3,M3,3. Nesil,M3,8.0,14 inç,Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,Birleşik Bellek,512.0,,,3024 x 1964,,8,Mac Os
+13849.0,Nvidia GeForce GTX1050 Ti,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,256.0,,3.6,,3.00 GHz üstü,6,Free Dos
+7549.0,Intel UHD Graphics,Intel Celeron,Belirtilmemiş,Belirtilmemiş,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,128.0,,,1920 x 1080,,Belirtilmemiş,Windows
+17249.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,,3.00 GHz üstü,6,Free Dos
+15899.0,Nvidia GeForce RTX 3090,Intel Core i7,10. Nesil,2200,4.0,14 inç,Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,10,Free Dos
+6599.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,128.0,,3.2,,3.00 GHz üstü,4,Free Dos
+25557.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,11. Nesil,11320H,16.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,4.5,DDR4,256.0,,3.2,1920 x 1080,,4,Free Dos
+77649.0,Intel HD Graphics,Intel Core i5,4. Nesil,1000M,8.0,"15,6 inç",DDR3,1 GB,Dahili,60 Hz,,2 Yıl,,DDR3,256.0,Gen 3,1.9,2160 x 1440,,4,Free Dos
+25899.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,3600,32.0,25 + inç,GDDR6,8 GB,Harici,240 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+12999.0,Nvidia GeForce GTX1050 Ti,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,2.8,1920 x 1080,,4,Windows
+9499.0,Nvidia GT730,Intel Core i7,1. Nesil,860,8.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,,2.8,1920 x 1080,3.00 GHz üstü,4,Free Dos
+26123.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,5600X,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR4,256.0,Gen 3,3.7,1920 x 1080,3.00 GHz üstü,6,Free Dos
+45999.0,M2 8 Çekirdekli,M2,2. Nesil,Belirtilmemiş,8.0,"13,3 inç",DDR4,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,512.0,,,2560 x 1600,,8,Mac Os
+14599.0,Dahili Ekran Kartı,Intel Core i5,11. Nesil,1135G7,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,512.0,,2.4,1920 x 1080,,4,Free Dos
+99999.0,Intel UHD Graphics,Intel Core i3,12. Nesil,N305,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Windows
+36999.0,Nvidia GeForce RTX 4060,Intel Core i7,12. Nesil,12700H,16.0,"15,6 inç",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,4.7,DDR5,512.0,,2.3,1920 x 1080,,14,Free Dos
+37499.0,Nvidia GeForce RTX 4050,Intel Core i5,13. Nesil,13420H,16.0,"16,1 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+44999.0,Nvidia GeForce RTX 4060,Intel Core i7,12. Nesil,12650H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,512.0,,3.5,1920 x 1080,,16,Windows
+11149.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+29580.0,Dahili Ekran Kartı,Intel Core i5,1. Nesil,İ5-650,8.0,,DDR,Paylaşımlı,Dahili,,,2 Yıl,,,256.0,,3.2,1920 x 1080,,2,Free Dos
+9499.0,AMD Radeon R7 240,Intel Core i5,,İ5-750,8.0,"19"" / 48 Ekran",DDR3,,Harici,60 Hz,,,,,256.0,,,,3.00 GHz üstü,4,Windows
+13599.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+24999.0,Nvidia GeForce GTX 1650,Intel Core i5,11. Nesil,11320H,8.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+11999.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.0,DDR4,500.0,Gen 3,,1920 x 1080,,6,Free Dos
+13599.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+335990.0,Nvidia GeForce RTX 3070Ti,AMD Ryzen 7,6. Nesil,6800H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,3.2,1920 x 1080,,8,Free Dos
+10158.0,Nvidia GeForce GT 730M,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,,Harici,,,,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+17299.0,Dahili Ekran Kartı,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+151287.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,DDR4,512.0,,,1920 x 1080,,8,Windows
+361540.0,Nvidia GeForce RTX 3070,Intel Core i7,11. Nesil,11800H,16.0,"15,6 inç",Belirtilmemiş,8 GB,Harici,144 Hz,,2 Yıl,4.6,DDR4,512.0,,2.3,1920 x 1080,,8,Free Dos
+430871.0,Nvidia GeForce RTX 4060,Intel Core i7,13. Nesil,13650HX,16.0,"15,6 inç",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,4.9,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+27999.0,Nvidia GeForce RTX 3060 Ti,Intel Core i5,13. Nesil,12400F,16.0,,GDDR6,8 GB,Harici,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+7549.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+6998.0,Nvidia GeForce GT 730,Intel Core i5,Belirtilmemiş,İ5-750,16.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,,,2.50 GHz - 3.00 GHz,4,Windows
+5802.0,AMD Radeon R5 230,Intel Core i3,2. Nesil,2120,16.0,,DDR3,2 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.3,,3.00 GHz üstü,2,Free Dos
+9899.0,Paylaşımlı,Intel Celeron,Yok,N4020,4.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Yok,,,,DDR4,128.0,,1.1,1366 x 768,,2,Windows
+10584.0,AMD,AMD Ryzen 5,5. Nesil,5600G,16.0,,DDR4,Paylaşımlı,Dahili,,,2 Yıl,,DDR4,256.0,,3.9,,3.00 GHz üstü,6,Free Dos
+39999.0,AMD Radeon RX 550,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+29999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+35599.0,Nvidia GeForce RTX 4060,Intel Core i7,12. Nesil,12650H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,500.0,Gen 3,,1920 x 1080,,10,Free Dos
+13625.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Ubuntu
+17299.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+41580.0,M2 8 Çekirdekli,M2,2. Nesil,9425,8.0,13 inç,DDR4,Paylaşımlı,Dahili,144 Hz,,2 Yıl,,DDR4,256.0,,,2560 x 1600,,8,Mac Os
+25999.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,Belirtilmemiş,5600H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.2,DDR4,512.0,,3.3,1920 x 1080,,6,Free Dos
+9899.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.1,1920 x 1080,3.00 GHz üstü,4,Windows
+13499.0,AMD Radeon Graphics,AMD Ryzen 5,Belirtilmemiş,4600H,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,,1920 x 1080,,Belirtilmemiş,Windows
+351999.0,Nvidia GeForce RTX 3050 Ti,AMD Ryzen 7,6. Nesil,6800H,16.0,"15,6 inç",Belirtilmemiş,4 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,512.0,,3.2,1920 x 1080,,8,Free Dos
+39999.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+11649.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,Belirtilmemiş,Windows
+6949.0,AMD Radeon RX 560,Intel Core i5,Belirtilmemiş,2400,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.1,,3.00 GHz üstü,4,Windows
+39999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12500H,16.0,"17,3 inç",GDDR6,6 GB,Harici,360 Hz,,2 Yıl,4.5,DDR4,512.0,,3.3,1920 x 1080,,12,Free Dos
+10499.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.1,1920 x 1080,3.00 GHz üstü,4,Windows
+10949.0,Nvıdıa GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+15499.0,AMD Radeon RX 580,AMD Ryzen 5,Belirtilmemiş,AMD Ryzen 5 1600,32.0,25 + inç,GDDR5,8 GB,Harici,90 Hz,,2 Yıl,,DDR4,240.0,Gen 3,3.4,1920 x 1080,3.00 GHz üstü,12,Windows
+17570.0,Nvidia GeForce 1050 Ti,AMD Ryzen 5,3. Nesil,3600,16.0,"24"" / 61 Ekran",GDDR5,,Harici,,,2 Yıl,,,256.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+17139.0,Intel XE Graphics,Intel Core i5,10. Nesil,1235U,8.0,16 inç,DDR4,8 GB,Dahili,90 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1200,,10,Windows
+18499.0,Dahili Ekran Kartı,Intel Core i7,8. Nesil,8565U,8.0,14 inç,DDR5,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.6,DDR4,256.0,,1.8,1366 x 768,,4,Free Dos
+11399.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,İ5-3470,16.0,,GDDR6,6 GB,Harici,,,2 Yıl,,DDR3,512.0,,,,3.00 GHz üstü,4,Free Dos
+19999.0,,Apple M1,,,,,DDR4,,,,,,,,512.0,,,,,,Mac Os
+9099.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,16.0,22 - 24 inç,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.1,1920 x 1080,,4,Windows
+11849.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,7520U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+9349.0,Nvidia GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+89990.0,Dahili Ekran Kartı,Intel Core i3,Belirtilmemiş,3200U,4.0,,Belirtilmemiş,,Dahili,,,2 Yıl,,,120.0,,,1366 x 768,,2,Free Dos
+12999.0,Nvidia GeForce GTX1050 Ti,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,2.8,1920 x 1080,,4,Windows
+52499.0,Nvidia GeForce RTX 4070,AMD Ryzen 9,7. Nesil,7940HS,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+13441.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,8.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Free Dos
+12849.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+5382.0,Intel HD Graphics,Intel Core i5,3. Nesil,3470,8.0,"20"" / 51 Ekran",Dahili,,Dahili,,,2 Yıl,,,256.0,,,,,4,Free Dos
+13499.0,AMD Radeon R5,AMD Ryzen 5,7. Nesil,7520U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,256.0,,,1920 x 1080,,4,Windows
+8349.0,AMD Radeon RX 580,Intel Core i5,3. Nesil,3470,16.0,,GDDR5,8 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+14533.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,3. Nesil,3470,16.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,,,2 Yıl,,DDR3,512.0,,,1920 x 1080,,4,Free Dos
+21599.0,Nvidia GeForce RTX3060,AMD Ryzen 5,,3600,32.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+247491.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,5. Nesil,5600H,8.0,"15,6 inç",GDDR6,4 GB,Harici,Belirtilmemiş,,2 Yıl,4.2,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+17369.0,Nvidia GeForce MX550,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",GDDR6,2 GB,Harici,Belirtilmemiş,,2 Yıl,4.4,DDR4,512.0,,,1920 x 1080,,10,Windows
+6749.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,3470,16.0,6 inç ve üstü,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+16999.0,AMD,AMD Ryzen 5,4. Nesil,4600H,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+156282.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5625U,16.0,"15,6 inç",SD,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+71296.0,AMD Radeon Vega 3,AMD Athlon,Belirtilmemiş,AMD Athlon 3000G,16.0,,DDR4,Paylaşımlı,Dahili,,,2 Yıl,,DDR4,256.0,,3.5,1920 x 1080,3.00 GHz üstü,2,Free Dos
+24599.0,Nvidia GeForce RTX 3050,Intel Core i5,10. Nesil,10400F,16.0,25 + inç,GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+27982.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11320H,16.0,"15,6 inç",GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Windows
+32499.0,Nvidia GeForce RTX 3050,Intel Core i7,13. Nesil,13700H,16.0,"16,1 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+9499.0,Nvidia GT730,Intel Core i7,1. Nesil,860,8.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,,2.8,1920 x 1080,3.00 GHz üstü,4,Free Dos
+248343.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11320H,16.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,4.5,DDR4,512.0,,3.2,1920 x 1080,,4,Free Dos
+10299.0,Nvidia Geforce GT 740,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 4500,32.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR4,256.0,,3.6,,,6,Windows
+5999.0,Intel Iris Pro Graphics,Intel Core i5,Belirtilmemiş,2400,16.0,"20"" / 51 Ekran",DDR3,Paylaşımlı,Paylaşımlı,60 Hz,,2 Yıl,,,256.0,,3.1,1920 x 1080,3.00 GHz üstü,4,Windows
+10649.0,AMD Radeon R5 230,Intel Core i5,10. Nesil,10400F,16.0,,DDR3,2 GB,Harici,,,2 Yıl,,DDR4,512.0,,,,2.50 GHz - 3.00 GHz,6,Free Dos
+17999.0,AMD Radeon RX 580,AMD Ryzen 5,3. Nesil,3600,32.0,"24"" / 61 Ekran",GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+34999.0,Nvidia GeForce RTX 4050,AMD Ryzen 7,7. Nesil,7735HS,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.7,DDR5,512.0,,Belirtilmemiş,1920 x 1080,,16,Windows
+11547.0,Intel UHD Graphics,Intel Core i3,12. Nesil,1215U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Windows
+8199.0,AMD Radeon Graphics,AMD Ryzen 3,3. Nesil,7320U,4.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.1,LPDDR5,256.0,,2.4,1920 x 1080,,4,Free Dos
+43999.0,Nvidia GeForce RTX3060,Intel Core i7,12. Nesil,12700K,32.0,25 + inç,GDDR6,12 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,Gen 3,2.1,1920 x 1080,2.00 GHz - 2.40 GHz,12,Windows
+8499.0,Intel UHD Graphics,Intel Core i3,3. Nesil,N305,4.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,8,Windows
+31500.0,Nvidia GeForce RTX3060,AMD Ryzen 7,,5700G,16.0,,GDDR6,12 GB,,,,,,DDR4,256.0,,3.8,,3.00 GHz üstü,8,Windows
+18999.0,Intel Iris Graphics,Intel Core i7,11. Nesil,1165G7,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.7,DDR4,512.0,,2.8,1920 x 1080,,4,Free Dos
+43800.0,Nvidia GeForce RTX 3070Ti,AMD Ryzen 7,6. Nesil,6800H,16.0,16 inç,GDDR6,8 GB,Harici,165 Hz,,2 Yıl,4.7,DDR5,512.0,,3.2,2560 x 1600,,8,Windows
+17499.0,AMD Radeon RX 580,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 4500,32.0,25 + inç,DDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,,6,Windows
+333870.0,Nvidia GeForce RTX 4060Ti,AMD Ryzen 5,5. Nesil,Ryzen 5 5600,16.0,25 + inç,GDDR6,,Harici,,,2 Yıl,,,512.0,,,1920 x 1080,,6,Free Dos
+436150.0,Nvidia GeForce RTX 4070,Intel Core i5,13. Nesil,1000M,32.0,,GDDR6X,,Harici,,,2 Yıl,,,512.0,,,,,10,Free Dos
+35399.0,M1 7 Çekirdekli,Apple M1,Belirtilmemiş,Belirtilmemiş,16.0,13 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,Belirtilmemiş,2560 x 1600,,8,Mac Os
+10584.0,AMD,AMD Ryzen 5,5. Nesil,5600G,16.0,,DDR4,Paylaşımlı,Dahili,,,2 Yıl,,DDR4,256.0,,3.9,,3.00 GHz üstü,6,Free Dos
+79999.0,AMD Radeon Pro 5300M,Intel Core i5,,Belirtilmemiş,8.0,,GDDR5,,,,,,,,512.0,,,,,,Mac Os
+76796.0,Intel Iris Graphics,Intel Core i7,12. Nesil,1255U,16.0,13 inç,Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,4.7,LPDDR5,512.0,,3.5,2880 x 1800,,10,Windows
+6499.0,Nvıdıa GeForce GT 730,Intel Core i5,4. Nesil,4570,16.0,6 inç ve üstü,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+183611.0,Nvidia GeForce RTX 2060,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR6,6 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,12,Free Dos
+33999.0,Nvidia GeForce RTX 4060,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.4,DDR4,500.0,Gen 3,,1920 x 1080,,8,Free Dos
+7799.0,Nvidia GeForce GT 730,Intel Core i5,3. Nesil,İ5-3470,8.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,60 Hz,,2 Yıl,,DDR3,120.0,,3.2,1366 x 768,3.00 GHz üstü,4,Free Dos
+14899.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,10. Nesil,10400F,32.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+6499.0,Nvıdıa GeForce GT 730,Intel Core i5,4. Nesil,4570,16.0,6 inç ve üstü,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+52399.0,M2 8 Çekirdekli,Apple M2,2. Nesil,Belirtilmemiş,16.0,"13,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,LPDDR5,512.0,,,2560 x 1664,,8,Mac Os
+23999.0,Intel UHD Graphics,Intel Core i5,10. Nesil,10210U,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,512.0,,1.6,1920 x 1080,,4,Windows
+6899.0,AMD Radeon RX 550,Intel Core i5,4. Nesil,4570,16.0,6 inç ve üstü,GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+28799.0,Nvidia GeForce RTX 3050 Ti,Intel Core i7,11. Nesil,11800H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.6,DDR4,500.0,Gen 4,2.3,1920 x 1080,,8,Free Dos
+29788.0,AMD Radeon Graphics,Ryzen Z1,Belirtilmemiş,Belirtilmemiş,16.0,7 inç,Belirtilmemiş,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,LPDDR5,512.0,,,1920 x 1080,,6,Windows
+14899.0,AMD Radeon RX 550,Intel Core i3,10. Nesil,10100F,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,512.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+25499.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,4 GB,Harici,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+227278.0,AMD Radeon RX 580,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",DDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+5999.0,Nvidia GT730,Intel Core i7,1. Nesil,860,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,2.8,,3.00 GHz üstü,4,Free Dos
+132937.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+9699.0,Nvidia GeForce GTX 1650,Intel Core i5,Belirtilmemiş,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,,,4,Windows
+14999.0,AMD Radeon RX 550,AMD Ryzen 5,,3600,16.0,25 + inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,240.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+14699.0,Nvidia GeForce 1050 Ti,Intel Core i5,3. Nesil,3470,16.0,22 - 24 inç,DDR3,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+29999.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+51999.0,Dahili Ekran Kartı,Apple M1,,Belirtilmemiş,8.0,,Belirtilmemiş,,,,,,,,512.0,,,,,,Mac Os
+8799.0,Intel UHD Graphics,Intel Celeron,5. Nesil,N4200,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,2,Windows
+29576.0,Paylaşımlı,Intel Core i7,4. Nesil,4600U,8.0,"15,6 inç",DDR3,Paylaşımlı,Dahili,,HD,,,,256.0,,,1600 x 900,,2,Windows
+18999.0,Nvidia GeForce GTX1050 Ti,AMD Ryzen 5,,3600,32.0,25 + inç,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+49999.0,Nvidia GeForce RTX3060,Intel Core i7,12. Nesil,12650H,16.0,"17,3 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,512.0,,3.5,1920 x 1080,,10,Free Dos
+24699.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,6. Nesil,6600H,16.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR5,512.0,,3.3,1920 x 1080,,6,Free Dos
+11499.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Nvidia GeForce GT730M,75 Hz,,2 Yıl,,DDR3,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+18299.0,Nvidia GeForce RTX 2060 Super,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,6 inç ve üstü,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+5999.0,Dahili Ekran Kartı,Intel Core i5,2. Nesil,2400,8.0,"19"" / 48 Ekran",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR3,256.0,,3.2,1440 x 900,3.00 GHz üstü,4,Free Dos
+9099.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,16.0,22 - 24 inç,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.1,1920 x 1080,,4,Windows
+23399.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR4,256.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+29500.0,Nvidia GeForce RTX 3050 Ti,AMD Ryzen 5,4. Nesil,4600H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Windows
+20399.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+261958.0,Nvidia GeForce RTX 2050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,2.7,1920 x 1080,,12,Windows
+23699.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,3600,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+233700.0,Nvidia Geforce GTX1660 Ti,Intel Core i5,10. Nesil,10400F,16.0,,GDDR6,,Harici,,,2 Yıl,,,512.0,,,,,6,Free Dos
+42100.0,M2 10 Çekirdekli,M2,2. Nesil,Belirtilmemiş,8.0,13 inç,DDR4,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,256.0,,,2560 x 1600,,8,Mac Os
+23699.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,3600,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,3.00 GHz üstü,6,Free Dos
+45699.0,Nvidia GeForce RTX 4070,Intel Core i7,13. Nesil,13700H,16.0,16 inç,GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+14799.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1155G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.5,DDR4,500.0,,2.5,1920 x 1080,,4,Free Dos
+51489.0,Nvidia GeForce RTX 4070,AMD Ryzen 9,7. Nesil,7940HS,16.0,"15,6 inç",GDDR6,8 GB,Dahili,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+13249.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,Belirtilmemiş,2400,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR3,240.0,,3.1,1920 x 1080,,6,Windows
+7799.0,AMD Radeon R7 240,Intel Core i5,2. Nesil,2400,16.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,60 Hz,,2 Yıl,,,256.0,,3.2,1440 x 900,3.00 GHz üstü,4,Free Dos
+15849.0,AMD Radeon RX6600,AMD Ryzen 5,5. Nesil,3600,16.0,,GDDR6,,Dahili,,,2 Yıl,,,500.0,,,,,4,Free Dos
+42999.0,Nvidia GeForce RTX 4050,Intel Core i7,13. Nesil,8100,16.0,"15,6 inç",DDR5,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,6,Free Dos
+15999.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,500.0,Gen 3,3.6,,3.00 GHz üstü,12,Windows
+3849.0,Intel HD Graphics,Intel Core i5,2. Nesil,650,8.0,,DDR3,,Dahili,,,2 Yıl,,,128.0,,3.2,,3.00 GHz üstü,2,Free Dos
+55339.0,Nvidia GeForce RTX 4070,Intel Core i9,13. Nesil,13900H,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,14,Free Dos
+19999.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,3. Nesil,3600,16.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,256.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+59999.0,M2 8 Çekirdekli,M2,Belirtilmemiş,Belirtilmemiş,16.0,"13,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,Belirtilmemiş,512.0,,,2560 x 1664,,8,Mac Os
+41999.0,Intel Iris Graphics,Intel Core i5,12. Nesil,Belirtilmemiş,16.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,LPDDR5,512.0,,,2880 x 1800,,12,Windows
+9490.0,Paylaşımlı,Intel Celeron,10. Nesil,5205U,4.0,14 inç,DDR5,Paylaşımlı,Dahili,60 Hz,Full HD,,,,128.0,,1 - 2,1366 x 768,,2,Windows
+11199.0,AMD Radeon RX 550,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,,1920 x 1080,3.00 GHz üstü,4,Free Dos
+10999.0,Dahili Ekran Kartı,AMD Ryzen 5,11. Nesil,5500U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.0,DDR4,256.0,,2.1,1920 x 1080,,6,Free Dos
+15000.0,AMD Radeon RX 580,Intel Core i5,11. Nesil,11400F,16.0,"4 - 4,5 inç",DDR4,,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+78999.0,M3,M3,3. Nesil,M3,18.0,14 inç,Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,Birleşik Bellek,512.0,,,3024 x 1964,,10,Mac Os
+14249.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,240.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11699.0,Nvidia GeForce GTX750 Ti,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.4,1920 x 1080,3.00 GHz üstü,4,Windows
+11999.0,AMD Radeon RX 550,Intel Xeon,Belirtilmemiş,X5660,32.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,2.9,1920 x 1080,2.50 GHz - 3.00 GHz,6,Free Dos
+19999.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,3. Nesil,3600,16.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,256.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+133641.0,AMD Radeon RX 580,Intel Core i5,Belirtilmemiş,4570,16.0,22 - 24 inç,GDDR5,8 GB,Harici,75 Hz,,2 Yıl,,DDR3,240.0,Gen 3,2.9,1920 x 1080,3.00 GHz üstü,8,Free Dos
+593991.0,AMD Radeon Pro 5300M,Intel Core i5,10. Nesil,Belirtilmemiş,8.0,27 inç,Belirtilmemiş,4 GB,Harici,,,2 Yıl,,,256.0,,3.1,5120 x 2880,,6,Mac Os
+18500.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.2,DDR4,512.0,,2.4,1920 x 1080,,4,Windows
+22949.0,Nvidia GeForce RTX3060,AMD Ryzen 5,,5600X,32.0,,GDDR6,12 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.7,,3.00 GHz üstü,6,Free Dos
+110371.0,Nvidia GT730,Intel Core i5,3. Nesil,İ5-3470,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+30499.0,Nvidia GeForce RTX 3050,AMD Ryzen 7,7. Nesil,7840HS,16.0,"16,1 inç",GDDR6,6 GB,Dahili,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+9899.0,Nvidia GT730,Intel Core i5,Belirtilmemiş,2400,16.0,"24"" / 61 Ekran",DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,3.1,1920 x 1080,,4,Windows
+12949.0,AMD Radeon Graphics,AMD Ryzen 5,Belirtilmemiş,5500U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,6,Free Dos
+11999.0,AMD Radeon Graphics,AMD Athlon,10. Nesil,7100U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,3.5,DDR5,256.0,,2.4,1920 x 1080,,2,Free Dos
+28999.0,Nvidia GeForce RTX 3050,Intel Core i5,11. Nesil,11400H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,2.7,1920 x 1080,,6,Free Dos
+25949.0,Nvidia GeForce RTX3060,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",GDDR6,12 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+15999.0,Nvidia GeForce MX450,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",DDR5,2 GB,Harici,60 Hz,,2 Yıl,,DDR5,256.0,,,1920 x 1080,,4,Free Dos
+10899.0,AMD Radeon Graphics,AMD Ryzen 5,Belirtilmemiş,5625U,8.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.3,DDR4,256.0,,,1920 x 1080,,6,Free Dos
+21699.0,Intel Iris Graphics,Intel Core i7,11. Nesil,1165G7,16.0,"15,6 inç",DDR4,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,Belirtilmemiş,Free Dos
+6998.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,8.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.1,,3.00 GHz üstü,4,Windows
+13749.0,Nvidia GeForce 1050 Ti,Intel Core i7,4. Nesil,4770,16.0,,GDDR6,4 GB,Harici,,,2 Yıl,,DDR3,240.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Windows
+10199.0,Intel UHD Graphics,Intel Celeron,1. Nesil,Belirtilmemiş,16.0,"15,6 inç",SD,Paylaşımlı,Harici,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,2,Free Dos
+8299.0,AMD Radeon RX 580,Intel Core i5,Belirtilmemiş,2400,16.0,,GDDR5,8 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.1,,3.00 GHz üstü,4,Windows
+30899.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12400F,16.0,,GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,500.0,Gen 3,,,,6,Free Dos
+13999.0,AMD Radeon R7 240,Intel Core i7,,860,8.0,22 - 24 inç,GDDR5,,Harici,,,,,,128.0,,,1920 x 1080,3.00 GHz üstü,4,Windows
+66840.0,Dahili Ekran Kartı,M2,Belirtilmemiş,Belirtilmemiş,16.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,512.0,,,3024 x 1964,,Belirtilmemiş,Mac Os
+11750.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,6,Windows
+110237.0,AMD Radeon R7 240,Intel Core i5,Belirtilmemiş,650,8.0,22 - 24 inç,DDR3,4 GB,Harici,75 Hz,,2 Yıl,,,128.0,,3.4,1920 x 1080,3.00 GHz üstü,6,Windows
+37192.0,Nvidia GeForce RTX 4060,AMD Ryzen 7,7. Nesil,7840HS,16.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,,1920 x 1080,,8,Free Dos
+151419.0,Intel XE Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+23375.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,5600X,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.7,1920 x 1080,3.00 GHz üstü,6,Free Dos
+11349.0,AMD Radeon RX 550,Intel Core i5,4. Nesil,4570,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,512.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+23399.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR4,256.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+5749.0,Nvidia Geforce GT 740,Intel Core i5,4. Nesil,4570,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,,3.00 GHz üstü,4,Free Dos
+29899.0,Nvidia GeForce RTX 4050,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,16,Free Dos
+25749.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+38399.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10300H,8.0,"15,6 inç",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,4.5,DDR4,512.0,,2.5,1920 x 1080,,8,Free Dos
+23375.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,5600X,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.7,1920 x 1080,3.00 GHz üstü,6,Free Dos
+36799.0,Nvidia GeForce RTX 4060,Intel Core i7,12. Nesil,12650H,32.0,"15,6 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,500.0,Gen 3,,1920 x 1080,,10,Free Dos
+9399.0,AMD Radeon R7 240,Intel Core i5,3. Nesil,İ5-3470,16.0,22 - 24 inç,DDR,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+477131.0,Nvidia GeForce RTX 4070,Intel Core i9,13. Nesil,13700H,16.0,"16,1 inç",GDDR6,8 GB,Harici,144 Hz,,2 Yıl,5.0,DDR5,512.0,,3.7,1920 x 1080,,14,Free Dos
+20499.0,AMD Radeon RX 550,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR5,4 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+208838.0,Dahili Ekran Kartı,Intel Core i5,12. Nesil,1235U,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+12799.0,Dahili Ekran Kartı,Intel Core i5,13. Nesil,Belirtilmemiş,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,1,Free Dos
+143999.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,90 Hz,,2 Yıl,4.4,DDR4,512.0,,3.3,1920 x 1080,,10,Free Dos
+14999.0,AMD Radeon RX 550,AMD Ryzen 5,,3600,16.0,25 + inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,240.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+161727.0,Dahili Ekran Kartı,AMD Ryzen 5,Belirtilmemiş,5500U,16.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.0,DDR4,512.0,,2.1,1920 x 1080,,6,Free Dos
+12449.0,Nvidia GeForce GTX1050 Ti,Intel Core i3,10. Nesil,10100F,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+11499.0,Nvidia GeForce GTX750 Ti,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,2.8,1920 x 1080,,4,Windows
+54999.0,Dahili Ekran Kartı,Apple M1,,1165G7,16.0,13 inç,DDR4,,Dahili,,,,,,512.0,,,2560 x 1600,,,Mac Os
+4450.0,Dahili Ekran Kartı,Intel Pentium,1. Nesil,,4.0,18 - 21 inç,,Paylaşımlı,,,,,,DD2,128.0,,2 - 3,,2.50 GHz - 3.00 GHz,2,Windows
+27649.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,,AMDRYZEN53600,32.0,25 + inç,GDDR6,8 GB,Harici,240 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+19999.0,Nvidia GeForce GTX 1660 SUPER,AMD Ryzen 5,3. Nesil,3600,32.0,25 + inç,GDDR6,6 GB,Harici,75 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+6998.0,Nvidia GeForce GT 730,Intel Core i5,Belirtilmemiş,İ5-750,16.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,,,2.50 GHz - 3.00 GHz,4,Windows
+14149.0,Dahili Ekran Kartı,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,,Belirtilmemiş,256.0,,,1920 x 1080,,Belirtilmemiş,Free Dos
+41749.0,Nvidia GeForce RTX3060,Intel Core i7,12. Nesil,12650H,16.0,"17,3 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+143196.0,AMD Radeon Graphics,AMD Ryzen 7,5. Nesil,5700U,24.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.3,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+23499.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,32.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Windows
+29899.0,Nvidia GeForce RTX 3050 Ti,Intel Core i7,11. Nesil,11800H,8.0,"17,3 inç",GDDR6,4 GB,Harici,,Full HD,,,,500.0,,4 +,1920 x 1080,,,Free Dos
+7049.0,Nvidia GeForce GTX750 Ti,Intel Core i7,Belirtilmemiş,860,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,2.8,,,4,Windows
+12899.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,,3600,16.0,,GDDR6,4 GB,Harici,,,2 Yıl,,DDR4,128.0,,3.6,,,6,Free Dos
+12699.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Free Dos
+7049.0,Nvidia GeForce GTX750 Ti,Intel Core i7,Belirtilmemiş,860,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,2.8,,,4,Windows
+90848.0,Intel UHD Graphics,Intel Core i3,11. Nesil,1115G4,8.0,14 inç,Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,256.0,,3,1366 x 768,,2,Free Dos
+41999.0,Nvidia GeForce RTX 3080,Intel Core i7,12. Nesil,12700K,16.0,,GDDR6X,10 GB,Harici,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+6099.0,Nvıdıa GeForce GT 730,Intel Core i5,4. Nesil,4570,16.0,6 inç ve üstü,DDR3,4 GB,Harici,,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+18899.0,Intel Iris Graphics,Intel Core i7,12. Nesil,1255U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.7,DDR4,500.0,Gen 3,,1920 x 1080,,10,Free Dos
+160516.0,Intel XE Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",SD,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+20999.0,Nvidia GeForce GTX 1660 SUPER,Intel Core i5,10. Nesil,10400F,32.0,"24"" / 61 Ekran",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,2.9,1920 x 1080,3.00 GHz üstü,6,Free Dos
+7768.0,Intel UHD Graphics,Intel Celeron,4. Nesil,N4020,4.0,14 inç,Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,128.0,,,1920 x 1080,,2,Windows
+286822.0,Nvidia GeForce RTX3060,Intel Core i5,12. Nesil,12450H,16.0,"15,6 inç",GDDR6,6 GB,Harici,120 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+33999.0,Nvidia GeForce RTX 4050,Intel Core i7,13. Nesil,13620H,24.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR5,512.0,,2.4,1920 x 1080,,10,Free Dos
+16999.0,AMD Radeon RX 550,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 4500,32.0,25 + inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Windows
+22499.0,Nvidia GeForce RTX3060,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR6,12 GB,Nvidia GeForce RTX3060,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+6998.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,8.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.1,,3.00 GHz üstü,4,Windows
+13699.0,AMD Radeon RX 580,Intel Core i5,Belirtilmemiş,İ5-3470,16.0,"24"" / 61 Ekran",DDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Windows
+36999.0,Nvidia GeForce RTX3060,Intel Core i7,13. Nesil,13700K,16.0,,GDDR6,12 GB,Nvidia GeForce RTX3060,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+13999.0,Intel XE Graphics,Intel Core i5,12. Nesil,1235U,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Free Dos
+170466.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,10,Windows
+5849.0,Intel HD Graphics,Intel Core i5,1. Nesil,İ5-650,8.0,,DDR3,,Dahili,,,2 Yıl,,,120.0,,,,,2,Free Dos
+17799.0,AMD Radeon Graphics,AMD Ryzen 7,7. Nesil,7730U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,90 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+186999.0,Nvidia GeForce MX350,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",DDR4,2 GB,Harici,60 Hz,,2 Yıl,4.2,DDR4,512.0,,2.4,1920 x 1080,,4,Free Dos
+10998.0,AMD,AMD Ryzen 5,Belirtilmemiş,5600G,16.0,,Dahili,Paylaşımlı,Dahili,,,2 Yıl,,DDR4,256.0,,,,3.00 GHz üstü,6,Windows
+8400.0,AMD,AMD,Belirtilmemiş,3600,6.0,10 inç,DDR,6 GB,Dahili,360 Hz,,2 Yıl,,Belirtilmemiş,128.0,,,4480 x 2520,,Belirtilmemiş,Android
+59999.0,Nvidia GeForce RTX 4070 Ti,Intel Core i7,13. Nesil,13700K,16.0,,GDDR6,12 GB,Harici,300 Hz,,2 Yıl,,DDR4,512.0,,3.9,4480 x 2520,3.00 GHz üstü,16,Windows
+16998.0,AMD Radeon RX 550,Intel Core i5,10. Nesil,10400F,16.0,"24"" / 61 Ekran",DDR5,4 GB,Harici,,,2 Yıl,,DDR4,256.0,,2.9,1920 x 1080,,6,Windows
+13999.0,Intel Iris Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.2,DDR4,256.0,,,1920 x 1080,,4,Windows
+13499.0,Intel HD Graphics,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.2,DDR4,256.0,,2.4,1920 x 1080,,4,Free Dos
+25500.0,Nvidia GeForce RTX 3050,Intel Core i5,13. Nesil,660,8.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,4.7,DDR4,512.0,,3.5,1920 x 1080,,12,Free Dos
+18999.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,Belirtilmemiş,Ryzen 5 4500,16.0,"24"" / 61 Ekran",DDR5,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,256.0,,3.6,1920 x 1080,,6,Windows
+16499.0,AMD Radeon Vega 8,AMD Ryzen 7,5. Nesil,5700U,32.0,"15,6 inç",GDDR6,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,4.3,DDR4,512.0,,1.8,1920 x 1080,,8,Windows
+22499.0,Intel Iris Graphics,Intel Core i7,12. Nesil,1255U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,120 Hz,,2 Yıl,4.7,DDR4,500.0,Gen 4,1.7,1920 x 1080,,10,Free Dos
+238910.0,Nvidia Geforce GTX1660 Ti,AMD Ryzen 7,5. Nesil,Ryzen 7 5700X,16.0,6 inç ve altı,GDDR6,6 GB,Harici,,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+22999.0,Nvidia GeForce RTX 3050,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,"24"" / 61 Ekran",GDDR6,8 GB,Harici,165 Hz,,2 Yıl,,DDR4,512.0,Gen 3,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+15149.0,AMD Radeon RX 5500 XT,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,DDR4,,Harici,,,2 Yıl,,DDR4,512.0,,3.6,,3.00 GHz üstü,6,Free Dos
+15499.0,Nvidia GeForce MX350,Intel Core i5,11. Nesil,1135G7,8.0,"15,6 inç",DDR5,2 GB,Harici,60 Hz,,2 Yıl,,DDR4,256.0,,,1920 x 1080,,4,Free Dos
+22599.0,Nvidia GeForce GTX 1650,AMD Ryzen 5,,5600X,32.0,"24"" / 61 Ekran",GDDR6,4 GB,Harici,144 Hz,,2 Yıl,,DDR4,256.0,,3.7,1920 x 1080,3.00 GHz üstü,6,Free Dos
+16849.0,Intel UHD Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,3.3,1920 x 1080,,10,Free Dos
+108505.0,Nvidia GeForce MX450,MediaTek P60T,5. Nesil,4800HS,36.0,18 inç,Dahili,2 GB,Harici,90 Hz,,2 Yıl,,LPDDR3,32.0,,,4480 x 2520,,10,Windows
+16799.0,Intel Iris Graphics,Intel Core i5,12. Nesil,1235U,16.0,"15,6 inç",Dahili,Paylaşımlı,Dahili,60 Hz,,2 Yıl,4.4,DDR4,512.0,,1.3,1920 x 1080,,10,Free Dos
+7199.0,Nvidia GeForce GT 730,Intel Core i5,Belirtilmemiş,2400,16.0,"19"" / 48 Ekran",DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,1366 x 768,3.00 GHz üstü,4,Windows
+42950.0,Nvidia GeForce RTX 3050,Intel Core i7,12. Nesil,11800H,16.0,"15,6 inç",GDDR6,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,Belirtilmemiş,Windows
+12990.0,Dahili Ekran Kartı,Intel Core i3,Yok,1005G1,8.0,"15,6 inç",DDR,Paylaşımlı,Dahili,Yok,,,,DDR4,512.0,,2.3,1920 x 1080,,2,Free Dos
+15999.0,AMD Radeon RX 550,AMD Ryzen 5,,3600,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,240.0,,3.2,1920 x 1080,3.00 GHz üstü,8,Free Dos
+154331.0,AMD Radeon RX 580,Intel Core i3,10. Nesil,10100F,16.0,"24"" / 61 Ekran",GDDR5,6 GB,Harici,144 Hz,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,4,Free Dos
+24630.0,Nvidia GeForce RTX 3050,Intel Core i5,12. Nesil,12450H,8.0,"15,6 inç",GDDR6,4 GB,Harici,120 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,8,Free Dos
+13349.0,Nvidia GeForce GTX1050 Ti,Intel Core i5,3. Nesil,İ5-3470,16.0,25 + inç,GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR3,256.0,,3.2,1920 x 1080,3.00 GHz üstü,4,Free Dos
+28499.0,Nvidia GeForce RTX 4050,Intel Core i5,11. Nesil,12450H,8.0,"15,6 inç",GDDR6,Paylaşımlı,Dahili,90 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,4,Windows
+10199.0,AMD Radeon R7 240,Intel Core i7,Belirtilmemiş,860,16.0,"24"" / 61 Ekran",GDDR5,4 GB,Harici,75 Hz,,2 Yıl,,,256.0,,,1920 x 1080,,4,Windows
+33888.0,Nvidia GeForce RTX 3050 Ti,Intel Core i5,12. Nesil,12500H,16.0,"15,6 inç",GDDR6,4 GB,Dahili,165 Hz,,2 Yıl,,DDR4,512.0,,,1920 x 1080,,12,Free Dos
+13649.0,Nvidia GeForce GTX1050 Ti,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,,3.00 GHz üstü,6,Free Dos
+6299.0,Nvidia GT730,Intel Core i5,Belirtilmemiş,İ5-3470,16.0,,GDDR5,4 GB,Harici,,,2 Yıl,,,256.0,,3.2,,3.00 GHz üstü,4,Windows
+13499.0,AMD Radeon Graphics,AMD Ryzen 5,5. Nesil,5500U,8.0,"15,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,60 Hz,,2 Yıl,,DDR4,500.0,,,1920 x 1080,,6,Windows
+14050.0,Belirtilmemiş,Intel Atom,5. Nesil,Z8350,2.0,"11,6 inç",Belirtilmemiş,Paylaşımlı,Dahili,Belirtilmemiş,,2 Yıl,1.8,DDR4,128.0,,1.4,1920 x 1080,,4,Windows
+20264.0,Nvidia GeForce GTX 1650,Intel Core i5,10. Nesil,10400F,32.0,25 + inç,DDR5,4 GB,Harici,75 Hz,,2 Yıl,,DDR4,256.0,,2.9,1920 x 1080,,6,Windows
+152233.0,Nvidia GeForce MX450,MediaTek P60T,5. Nesil,4800HS,36.0,18 inç,Dahili,2 GB,Harici,90 Hz,,2 Yıl,,LPDDR3,32.0,,,4480 x 2520,,10,Windows
+11949.0,AMD Radeon RX 580,AMD Ryzen 5,5. Nesil,Ryzen 5 5500,16.0,6 inç ve üstü,GDDR5,8 GB,Harici,,,2 Yıl,,DDR4,512.0,,3.6,1920 x 1080,3.00 GHz üstü,6,Free Dos
+5369.0,Nvidia Geforce GT 740,Intel Core i5,Belirtilmemiş,2400,16.0,,DDR3,4 GB,Harici,,,2 Yıl,,,256.0,,3.1,,,4,Windows
